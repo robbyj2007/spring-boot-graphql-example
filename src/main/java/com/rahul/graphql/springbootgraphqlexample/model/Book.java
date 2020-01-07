@@ -1,3 +1,4 @@
+#This is a Model
 package com.rahul.graphql.springbootgraphqlexample.model;
 
 import lombok.AllArgsConstructor;
