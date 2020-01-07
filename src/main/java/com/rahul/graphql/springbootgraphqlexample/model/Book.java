@@ -1,4 +1,4 @@
-#This is a Model
+#This is Model
 package com.rahul.graphql.springbootgraphqlexample.model;
 
 import lombok.AllArgsConstructor;
